@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HuffmanAndHeapsort.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  HeapSource.cpp
+  HuffmanAndHeapsort.cpp
+  HuffmanSource.cpp
+C:\Users\Hasan\Desktop\Tr-123\HuffmanAndHeapsort\HuffmanAndHeapsort\HuffmanSource.cpp(93,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hasan\Desktop\Tr-123\HuffmanAndHeapsort\HuffmanAndHeapsort\HuffmanSource.cpp(97,15): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  HuffmanAndHeapsort.vcxproj -> C:\Users\Hasan\Desktop\Tr-123\HuffmanAndHeapsort\Debug\3-HuffmanAndHeapsort.lib
